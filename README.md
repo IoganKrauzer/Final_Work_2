@@ -18,7 +18,7 @@
 6. Установить и удалить deb-пакет с помощью dpkg.
 ![4 1](https://github.com/IoganKrauzer/Final_Work_2/assets/130405621/4ab7a65d-e8ba-401d-ad0a-6b902bf6b6fc)
 
-7. Выложить историю команд в терминале ubuntu
+7. Выложить историю команд в терминале ubuntu\n
 Я так понял, что надо просто заскринить содержимое файла .bash_history
 ![5 1](https://github.com/IoganKrauzer/Final_Work_2/assets/130405621/94bf9418-b8f0-4e71-a473-bff2a8e67a68)
 ![5 2](https://github.com/IoganKrauzer/Final_Work_2/assets/130405621/cf62c025-a364-4d39-b51b-fb7ddf224ab8)
